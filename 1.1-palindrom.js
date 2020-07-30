@@ -1,4 +1,4 @@
-isPolindrom = text => {
+isPalindrom = text => {
 	if (typeof text !== 'string' || text === '' ) {
     	console.log('Data harus berupa string')
 
@@ -10,6 +10,6 @@ isPolindrom = text => {
     }
 }
 
-isPolindrom('kasur rusak')
-isPolindrom('kakak')
-isPolindrom('motor')
+isPalindrom('kasur rusak')
+isPalindrom('kakak')
+isPalindrom('motor')
