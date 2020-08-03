@@ -1,4 +1,3 @@
-ArkFood(75000, 'ARKAFOOD5', 5, true)
 const ArkFood = (harga, voucher, jarak, pajak) => {
 	
 	let potongan = getPotongan(harga, voucher)
@@ -33,3 +32,4 @@ const getPotongan = (harga, voucher) => {
 	return potongan
 }
 
+ArkFood(75000, 'ARKAFOOD5', 5, true)
