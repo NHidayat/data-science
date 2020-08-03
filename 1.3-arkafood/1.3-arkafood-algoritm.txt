@@ -7,7 +7,7 @@
 	> Selain itu (jika hasil kalkulasi diskon adalah 50% kebawah), maka diskon tetap berlaku 50% dari harga
 
 	b. Cek jika voucher adalah 'DITRAKTIRDEMY' dan minimal pemesanan 25.000 maka diskon adalah 60% dari harga dengan ketentuan :	
-	> jika hasil kalkulasi diskon lebih besar dari 30.000 maka tetapkan jumlah diskon adalah 25.000
+	> jika hasil kalkulasi diskon lebih besar dari 30.000 maka tetapkan jumlah diskon adalah 30.000
 	> jika hasil kalkukasi diskon adalah 50.000 kebawah, maka diskon tetap 60% dari harga
 
 	c. jika voucher salah atau tidak memenuhi ketentuan minimal belanja, maka nilai diskon adalah 0
